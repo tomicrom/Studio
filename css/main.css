@@ -28,6 +28,7 @@ LOGO
 ***********************************/
 header img {
 	max-width: 90%;
+	max-height: 40%;
 	display: block;
 	position:absolute;
 	top:0;
